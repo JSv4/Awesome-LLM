@@ -294,6 +294,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
 - [Guardrails.ai](https://www.guardrailsai.com/docs/) — A Python library for validating outputs and retrying failures. Still in alpha, so expect sharp edges and bugs.
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) — A Python/C#/Java library from Microsoft that supports prompt templating, function chaining, vectorized memory, and intelligent planning.
 - [Prompttools](https://github.com/hegelai/prompttools) — Open-source Python tools for testing and evaluating models, vector DBs, and prompts.
+- [OpenContracts](https://github.com/JSv4/OpenContracts) - Open-source, Enterprise-grade document analytics platform that combines automated PDF parsing, vector embeddings, LlamaIndex, and LLM agentic retrieval.
 - [Outlines](https://github.com/normal-computing/outlines) — A Python library that provides a domain-specific language to simplify prompting and constrain generation.
 - [Promptify](https://github.com/promptslab/Promptify) — A small Python library for using language models to perform NLP tasks.
 - [Scale Spellbook](https://scale.com/spellbook) — A paid product for building, comparing, and shipping language model apps.
